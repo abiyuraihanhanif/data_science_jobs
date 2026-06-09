@@ -93,8 +93,8 @@ Main columns:
 
 ### Global Data Science Salary Analysis
 
-![Dashboard](images/dashboard1.png)
-![Dashboard](images/dashboard2.png)
+![Dashboard](images/Dashboard1.png)
+![Dashboard](images/Dashboard2.png)
 
 ---
 
