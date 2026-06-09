@@ -147,7 +147,7 @@ global-data-science-salary-analysis/
 │   └── create_table.sql
 │
 ├── images/
-│   └── dashboard.png
+│   └── Dashboard1.png
 │
 └── README.md
 ```
